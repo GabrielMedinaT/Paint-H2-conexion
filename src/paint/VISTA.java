@@ -602,6 +602,15 @@ public class VISTA extends javax.swing.JFrame {
 
     private void seleccionarCircunferenciaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seleccionarCircunferenciaActionPerformed
 
+      ImageIcon circunferenciaIcon = new ImageIcon(getClass().getResource("/paint/Images/Circunferencia.png"));
+    ImageIcon circunferenciaIconSelected = new ImageIcon(getClass().getResource("/paint/Images/CircunferenciaSeleccionada.png"));
+
+    if (seleccionarCircunferencia.isSelected()) {
+        seleccionarCircunferencia.setIcon(circunferenciaIconSelected);
+    } else {
+        seleccionarCircunferencia.setIcon(circunferenciaIcon);
+    }
+            
     }//GEN-LAST:event_seleccionarCircunferenciaActionPerformed
 
     private void seleccionarPoligonoIrregularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seleccionarPoligonoIrregularActionPerformed
