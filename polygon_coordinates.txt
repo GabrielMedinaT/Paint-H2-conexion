@@ -1,0 +1,387 @@
+Polígono Regular: 
+Punto: (212, 342)
+Punto: (261, 325)
+
+Polígono Regular: 
+Punto: (291, 336)
+Punto: (394, 349)
+
+Polígono Regular: 
+Punto: (151, 148)
+Punto: (239, 144)
+
+Polígono Regular: 
+Punto: (125, 203)
+Punto: (163, 219)
+
+Polígono Regular: 
+Punto: (130, 227)
+Punto: (215, 159)
+
+Polígono Regular: 
+Punto: (340, 171)
+Punto: (338, 175)
+
+Polígono Regular: 
+Punto: (275, 294)
+Punto: (419, 255)
+
+Polígono Regular: 
+Punto: (383, 128)
+Punto: (472, 217)
+
+Polígono Regular: 
+Punto: (184, 94)
+Punto: (309, 200)
+
+Polígono Regular: 
+Punto: (114, 200)
+Punto: (289, 276)
+
+Polígono Regular: 
+Punto: (382, 271)
+Punto: (434, 338)
+
+Polígono Regular: 
+Punto: (584, 398)
+Punto: (595, 261)
+
+Polígono Regular: 
+Punto: (557, 155)
+Punto: (350, 403)
+
+Polígono Regular: 
+Punto: (242, 168)
+Punto: (352, 235)
+
+Polígono Regular: 
+Punto: (197, 361)
+Punto: (273, 370)
+
+Polígono Regular: 
+Punto: (691, 205)
+Punto: (688, 298)
+
+Polígono Regular: 
+Punto: (427, 471)
+Punto: (365, 459)
+
+Polígono Regular: 
+Punto: (673, 497)
+Punto: (679, 400)
+
+Polígono Regular: 
+Punto: (105, 241)
+Punto: (177, 242)
+
+Polígono Regular: 
+Punto: (348, 202)
+Punto: (466, 254)
+
+Polígono Regular: 
+Punto: (429, 385)
+Punto: (570, 347)
+
+Polígono Regular: 
+Punto: (345, 321)
+Punto: (451, 355)
+
+Polígono Regular: 
+Punto: (461, 112)
+Punto: (503, 113)
+
+Polígono Regular: 
+Punto: (534, 118)
+Punto: (567, 120)
+
+Polígono Regular: 
+Punto: (589, 162)
+Punto: (636, 151)
+
+Polígono Regular: 
+Punto: (444, 283)
+Punto: (415, 308)
+
+Polígono Regular: 
+Punto: (413, 104)
+
+Polígono Regular: 
+Punto: (500, 104)
+Punto: (567, 75)
+
+Polígono Regular: 
+Punto: (630, 85)
+Punto: (472, 95)
+
+Polígono Regular: 
+Punto: (695, 169)
+Punto: (703, 262)
+
+Polígono Regular: 
+Punto: (720, 333)
+Punto: (723, 155)
+
+Polígono Regular: 
+Punto: (672, 120)
+Punto: (680, 96)
+
+Polígono Regular: 
+Punto: (186, 201)
+Punto: (260, 202)
+
+Polígono Regular: 
+Punto: (356, 212)
+Punto: (402, 227)
+
+Polígono Regular: 
+Punto: (402, 227)
+Punto: (403, 201)
+
+Polígono Regular: 
+Punto: (436, 207)
+Punto: (511, 187)
+
+Polígono Regular: 
+Punto: (660, 165)
+Punto: (656, 191)
+
+Polígono Regular: 
+Punto: (321, 154)
+Punto: (406, 139)
+
+Polígono Regular: 
+Punto: (56, 159)
+Punto: (101, 152)
+
+Polígono Regular: 
+Punto: (487, 200)
+Punto: (484, 227)
+
+Polígono Regular: 
+Punto: (347, 228)
+Punto: (200, 273)
+
+Polígono Regular: 
+Punto: (295, 208)
+Punto: (435, 175)
+
+Polígono Regular: 
+Punto: (565, 181)
+Punto: (588, 173)
+
+Polígono Regular: 
+Punto: (732, 157)
+Punto: (670, 182)
+
+Polígono Regular: 
+Punto: (497, 171)
+Punto: (205, 181)
+
+Polígono Regular: 
+Punto: (114, 144)
+Punto: (141, 142)
+
+Polígono Regular: 
+Punto: (175, 134)
+Punto: (205, 135)
+
+Polígono Regular: 
+Punto: (245, 135)
+Punto: (345, 138)
+
+Polígono Regular: 
+Punto: (437, 149)
+Punto: (530, 161)
+
+Polígono Regular: 
+Punto: (436, 113)
+Punto: (310, 119)
+
+Polígono Regular: 
+Punto: (231, 109)
+Punto: (166, 102)
+
+Polígono Regular: 
+Punto: (211, 180)
+Punto: (343, 229)
+
+Polígono Regular: 
+Punto: (157, 185)
+Punto: (216, 224)
+
+Polígono Regular: 
+Punto: (550, 205)
+Punto: (531, 259)
+
+Polígono Regular: 
+Punto: (156, 345)
+Punto: (250, 388)
+
+Polígono Regular: 
+Punto: (222, 341)
+Punto: (252, 353)
+
+Polígono Regular: 
+Punto: (175, 364)
+Punto: (201, 374)
+
+Polígono Regular: 
+Punto: (340, 320)
+Punto: (378, 374)
+
+Polígono Regular: 
+Punto: (292, 436)
+Punto: (258, 469)
+
+Polígono Regular: 
+Punto: (208, 418)
+Punto: (225, 438)
+
+Polígono Regular: 
+Punto: (234, 400)
+Punto: (262, 421)
+
+Polígono Regular: 
+Punto: (175, 417)
+Punto: (123, 362)
+
+Polígono Regular: 
+Punto: (253, 192)
+Punto: (333, 224)
+
+Polígono Regular: 
+Punto: (411, 259)
+Punto: (426, 266)
+
+Polígono Regular: 
+Punto: (461, 269)
+Punto: (509, 259)
+
+Polígono Regular: 
+Punto: (261, 240)
+Punto: (286, 246)
+
+Polígono Regular: 
+Punto: (381, 259)
+Punto: (522, 274)
+
+Polígono Regular: 
+Punto: (348, 300)
+Punto: (226, 405)
+
+Polígono Regular: 
+Punto: (441, 414)
+Punto: (509, 274)
+
+Polígono Regular: 
+Punto: (479, 507)
+Punto: (472, 457)
+
+Polígono Regular: 
+Punto: (211, 249)
+Punto: (353, 299)
+
+Polígono Regular: 
+Punto: (138, 326)
+Punto: (167, 374)
+
+Polígono Regular: 
+Punto: (130, 211)
+Punto: (226, 245)
+
+Polígono Regular: 
+Punto: (344, 255)
+Punto: (468, 271)
+
+Polígono Regular: 
+Punto: (111, 323)
+Punto: (152, 328)
+
+Polígono Regular: 
+Punto: (506, 424)
+Punto: (430, 478)
+
+Polígono Regular: 
+Punto: (568, 469)
+Punto: (578, 394)
+
+Polígono Regular: 
+Punto: (728, 170)
+Punto: (668, 156)
+
+Polígono Regular: 
+Punto: (174, 388)
+Punto: (212, 335)
+
+Polígono Regular: 
+Punto: (457, 171)
+Punto: (489, 204)
+
+Polígono Regular: 
+Punto: (280, 253)
+Punto: (373, 338)
+
+Polígono Regular: 
+Punto: (808, 232)
+Punto: (752, 284)
+
+Polígono Regular: 
+Punto: (266, 185)
+Punto: (319, 285)
+
+Polígono Regular: 
+Punto: (822, 97)
+Punto: (822, 134)
+
+Polígono Regular: 
+Punto: (555, 91)
+Punto: (438, 98)
+
+Polígono Regular: 
+Punto: (407, 194)
+Punto: (514, 236)
+
+Polígono Regular: 
+Punto: (691, 252)
+Punto: (562, 189)
+
+Polígono Regular: 
+Punto: (792, 311)
+Punto: (656, 221)
+
+Polígono Regular: 
+Punto: (338, 214)
+Punto: (792, 308)
+
+Polígono Regular: 
+Punto: (909, 166)
+Punto: (557, 172)
+
+Polígono Regular: 
+Punto: (591, 247)
+Punto: (551, 199)
+
+Polígono Regular: 
+Punto: (651, 288)
+Punto: (761, 370)
+
+Polígono Regular: 
+Punto: (739, 187)
+Punto: (775, 214)
+
+Polígono Regular: 
+Punto: (1019, 272)
+Punto: (1151, 280)
+
+Polígono Regular: 
+Punto: (367, 161)
+Punto: (290, 140)
+
+Polígono Regular: 
+Punto: (457, 211)
+Punto: (493, 244)
+
+Polígono Regular: 
+Punto: (561, 113)
+Punto: (533, 151)
+
